@@ -1,19 +1,24 @@
 # Stanislav Tonkich
+
 ### ***Junior Frontend Web Developer***
+
 ---
 ### **Contact Info**
+
 
 **Phone:** +49 176 32314250 <br/>
 **E-mail:** st.tonkich@gmail.com  <br/>
 **Telegram:** [ClubTravels](https://t.me/ClubTravels) <br/>
 **GuHub:** [St-ton](https://github.com/St-ton) <br/>
 **Linkedin:** [Stanislav Tonkich](https://www.linkedin.com/in/stanislav-tonkich-595747210/) <br/>
+
 ---
 ### **Summary**
 
 After graduating from Kyiv International University of Civil Aviation in 1995, he worked as a programmer in a bank for 3 years.<br/>
 After that, he moved to the financial sector, having worked until 2012. financial manager. In parallel, he was engaged in network administration, installation and configuration of software, as well as training in its use by employees.<br/>
 From 2012 to 2019 he was an entrepreneur - a chain of grocery stores, a travel agency
+
 ---
 ### **Hard Skills**
 
@@ -37,7 +42,6 @@ From 2012 to 2019 he was an entrepreneur - a chain of grocery stores, a travel a
 - conflict resolution experience
 
 ---
-
 ### **Code example**
 
 *Working with DOM-elements and LocalStorage*<br/>
