@@ -82,7 +82,7 @@ function rerender() {
 ```
 ---
 
-### **Courses**
+### **Education**
 
 - Web Developer (HTML, CSS, BEM, SASS) on the [Udemy](https://www.udemy.com/course/javascript_full/learn/lecture/14328446??ranMID=39197&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-nUyZMTQpCSRakzx4Wdr89g&LSNPUBID=a1LgFw09t88&utm_source=aff-campaign&utm_medium=udemyads#overview)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
