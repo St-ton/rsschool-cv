@@ -20,7 +20,7 @@ body {
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 0 10px;
   max-width: 100%;
   max-height: 100%;
   color: var(--text-color);
@@ -28,29 +28,38 @@ body {
 
 main {
   display: flex;
-  max-width: 1440px;
-  max-height: 100%;
+  width: 100%;
   margin: 0 auto;
   flex: 1 1 auto;
 }
 
 footer {
   display: flex;
+  justify-content: space-between;
   width: 100%;
   margin: 0 auto;
-  justify-content: space-between;
   align-items: center;
-  padding: 5px 100px;
+  padding: 5px 50px;
   color: var(--text2-color);
   background-color: var(--main-color);
   flex: 0 0 auto;
+  color: var(--text2-color);
+  vertical-align: middle;
+}
+
+footer a {
+  color: var(--text2-color);
+  text-decoration: none;
+  margin-left: 5px;
+}
+footer img {
+  vertical-align: middle;
 }
 
 .section-left {
   display: flex;
   flex-direction: column;
   width: 30%;
-  padding: 0 10px;
   align-items: left;
   font-size: 16px;
 }
@@ -112,7 +121,7 @@ footer {
 header {
   width: 100%;
   margin: 0px auto;
-  padding: 4px 50px;
+  padding: 4px 10px;
   background-color: var(--main-color);
   text-transform: uppercase;
   color: var(--text2-color);
@@ -170,4 +179,16 @@ header li {
 }
 .active {
   background-color: lightsalmon;
+}
+@media (max-width: 900px) {
+  header li {
+    margin-left: 10px;
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 640px) {
+  header li {
+    margin-left: 10px;
+    font-size: 0.8rem;
+  }
 }
